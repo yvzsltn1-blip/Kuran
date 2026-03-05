@@ -1,0 +1,686 @@
+{
+  "1": {
+    "name": "Fatiha",
+    "name_original": "سُورَةُ ٱلْفَاتِحَةِ",
+    "duration": 38,
+    "duration_en": 29
+  },
+  "2": {
+    "name": "Bakara",
+    "name_original": "سورة البقرة",
+    "duration": 5982,
+    "duration_en": 5503
+  },
+  "3": {
+    "name": "Al-i İmran",
+    "name_original": "سورة آل عمران",
+    "duration": 3264,
+    "duration_en": 3014
+  },
+  "4": {
+    "name": "Nisa",
+    "name_original": "سورة النساء",
+    "duration": 3241,
+    "duration_en": 3091
+  },
+  "5": {
+    "name": "Maide",
+    "name_original": "سورة المائدة",
+    "duration": 2531,
+    "duration_en": 2404
+  },
+  "6": {
+    "name": "Enam",
+    "name_original": "سورة الأنعام",
+    "duration": 2995,
+    "duration_en": 2837
+  },
+  "7": {
+    "name": "Araf",
+    "name_original": "سورة الأعراف",
+    "duration": 3130,
+    "duration_en": 2910
+  },
+  "8": {
+    "name": "Enfal",
+    "name_original": "سورة الأنفال",
+    "duration": 1278,
+    "duration_en": 1183
+  },
+  "9": {
+    "name": "Tevbe",
+    "name_original": "سورة التوبة",
+    "duration": 2661,
+    "duration_en": 2428
+  },
+  "10": {
+    "name": "Yunus",
+    "name_original": "سورة يونس",
+    "duration": 1722,
+    "duration_en": 1572
+  },
+  "11": {
+    "name": "Hud",
+    "name_original": "سورة هود",
+    "duration": 1882,
+    "duration_en": 1720
+  },
+  "12": {
+    "name": "Yusuf",
+    "name_original": "سورة يوسف",
+    "duration": 1840,
+    "duration_en": 1669
+  },
+  "13": {
+    "name": "Rad",
+    "name_original": "سورة الرعد",
+    "duration": 994,
+    "duration_en": 901
+  },
+  "14": {
+    "name": "İbrahim",
+    "name_original": "سورة إبراهيم",
+    "duration": 892,
+    "duration_en": 817
+  },
+  "15": {
+    "name": "Hicr",
+    "name_original": "سورة الحجر",
+    "duration": 685,
+    "duration_en": 624
+  },
+  "16": {
+    "name": "Nahl",
+    "name_original": "سورة النحل",
+    "duration": 2218,
+    "duration_en": 2025
+  },
+  "17": {
+    "name": "İsra",
+    "name_original": "سورة الإسراء",
+    "duration": 1423,
+    "duration_en": 1298
+  },
+  "18": {
+    "name": "Kehf",
+    "name_original": "سورة الكهف",
+    "duration": 1737,
+    "duration_en": 1594
+  },
+  "19": {
+    "name": "Meryem",
+    "name_original": "سورة مريم",
+    "duration": 873,
+    "duration_en": 794
+  },
+  "20": {
+    "name": "Taha",
+    "name_original": "سورة طه",
+    "duration": 1166,
+    "duration_en": 1069
+  },
+  "21": {
+    "name": "Enbiya",
+    "name_original": "سورة الأنبياء",
+    "duration": 1306,
+    "duration_en": 1178
+  },
+  "22": {
+    "name": "Hac",
+    "name_original": "سورة الحج",
+    "duration": 1349,
+    "duration_en": 1230
+  },
+  "23": {
+    "name": "Müminun",
+    "name_original": "سورة المؤمنون",
+    "duration": 1112,
+    "duration_en": 1007
+  },
+  "24": {
+    "name": "Nur",
+    "name_original": "سورة النور",
+    "duration": 1404,
+    "duration_en": 1280
+  },
+  "25": {
+    "name": "Furkan",
+    "name_original": "سورة الفرقان",
+    "duration": 1004,
+    "duration_en": 910
+  },
+  "26": {
+    "name": "Şuara",
+    "name_original": "سورة الشعراء",
+    "duration": 1518,
+    "duration_en": 1377
+  },
+  "27": {
+    "name": "Neml",
+    "name_original": "سورة النمل",
+    "duration": 1268,
+    "duration_en": 1140
+  },
+  "28": {
+    "name": "Kasas",
+    "name_original": "سورة القصص",
+    "duration": 1653,
+    "duration_en": 1499
+  },
+  "29": {
+    "name": "Ankebut",
+    "name_original": "سورة العنكبوت",
+    "duration": 1018,
+    "duration_en": 924
+  },
+  "30": {
+    "name": "Rum",
+    "name_original": "سورة الروم",
+    "duration": 921,
+    "duration_en": 843
+  },
+  "31": {
+    "name": "Lokman",
+    "name_original": "سورة لقمان",
+    "duration": 623,
+    "duration_en": 573
+  },
+  "32": {
+    "name": "Secde",
+    "name_original": "سورة السجدة",
+    "duration": 469,
+    "duration_en": 425
+  },
+  "33": {
+    "name": "Ahzab",
+    "name_original": "سورة الأحزاب",
+    "duration": 1755,
+    "duration_en": 1621
+  },
+  "34": {
+    "name": "Sebe",
+    "name_original": "سورة سبأ",
+    "duration": 1021,
+    "duration_en": 939
+  },
+  "35": {
+    "name": "Fatır",
+    "name_original": "سورة فاطر",
+    "duration": 913,
+    "duration_en": 833
+  },
+  "36": {
+    "name": "Yasin",
+    "name_original": "سورة يس",
+    "duration": 780,
+    "duration_en": 700
+  },
+  "37": {
+    "name": "Saffat",
+    "name_original": "سورة الصافات",
+    "duration": 1085,
+    "duration_en": 980
+  },
+  "38": {
+    "name": "Sad",
+    "name_original": "سورة ص",
+    "duration": 884,
+    "duration_en": 798
+  },
+  "39": {
+    "name": "Zümer",
+    "name_original": "سورة الزمر",
+    "duration": 1343,
+    "duration_en": 1224
+  },
+  "40": {
+    "name": "Mümin",
+    "name_original": "سورة غافر",
+    "duration": 1388,
+    "duration_en": 1261
+  },
+  "41": {
+    "name": "Fussilet",
+    "name_original": "سورة فصلت",
+    "duration": 975,
+    "duration_en": 894
+  },
+  "42": {
+    "name": "Şura",
+    "name_original": "سورة الشورى",
+    "duration": 961,
+    "duration_en": 888
+  },
+  "43": {
+    "name": "Zuhruf",
+    "name_original": "سورة الزخرف",
+    "duration": 1037,
+    "duration_en": 943
+  },
+  "44": {
+    "name": "Duhan",
+    "name_original": "سورة الدخان",
+    "duration": 469,
+    "duration_en": 424
+  },
+  "45": {
+    "name": "Casiye",
+    "name_original": "سورة الجاثية",
+    "duration": 580,
+    "duration_en": 530
+  },
+  "46": {
+    "name": "Ahkaf",
+    "name_original": "سورة الأحقاف",
+    "duration": 753,
+    "duration_en": 680
+  },
+  "47": {
+    "name": "Muhammed",
+    "name_original": "سورة محمد",
+    "duration": 743,
+    "duration_en": 672
+  },
+  "48": {
+    "name": "Fetih",
+    "name_original": "سورة الفتح",
+    "duration": 797,
+    "duration_en": 723
+  },
+  "49": {
+    "name": "Hucurat",
+    "name_original": "سورة الحجرات",
+    "duration": 579,
+    "duration_en": 527
+  },
+  "50": {
+    "name": "Kaf",
+    "name_original": "سورة ق",
+    "duration": 479,
+    "duration_en": 436
+  },
+  "51": {
+    "name": "Zariyat",
+    "name_original": "سورة الذاريات",
+    "duration": 528,
+    "duration_en": 476
+  },
+  "52": {
+    "name": "Tur",
+    "name_original": "سورة الطور",
+    "duration": 468,
+    "duration_en": 425
+  },
+  "53": {
+    "name": "Necm",
+    "name_original": "سورة النجم",
+    "duration": 490,
+    "duration_en": 445
+  },
+  "54": {
+    "name": "Kamer",
+    "name_original": "سورة القمر",
+    "duration": 497,
+    "duration_en": 449
+  },
+  "55": {
+    "name": "Rahman",
+    "name_original": "سورة الرحمن",
+    "duration": 495,
+    "duration_en": 447
+  },
+  "56": {
+    "name": "Vakıa",
+    "name_original": "سورة الواقعة",
+    "duration": 604,
+    "duration_en": 549
+  },
+  "57": {
+    "name": "Hadid",
+    "name_original": "سورة الحديد",
+    "duration": 892,
+    "duration_en": 810
+  },
+  "58": {
+    "name": "Mücadele",
+    "name_original": "سورة المجادلة",
+    "duration": 740,
+    "duration_en": 673
+  },
+  "59": {
+    "name": "Haşr",
+    "name_original": "سورة الحشر",
+    "duration": 651,
+    "duration_en": 592
+  },
+  "60": {
+    "name": "Mümtehine",
+    "name_original": "سورة الممتحنة",
+    "duration": 527,
+    "duration_en": 481
+  },
+  "61": {
+    "name": "Saf",
+    "name_original": "سورة الصف",
+    "duration": 333,
+    "duration_en": 300
+  },
+  "62": {
+    "name": "Cuma",
+    "name_original": "سورة الجمعة",
+    "duration": 337,
+    "duration_en": 306
+  },
+  "63": {
+    "name": "Münafikun",
+    "name_original": "سورة المنافقون",
+    "duration": 301,
+    "duration_en": 271
+  },
+  "64": {
+    "name": "Teğabün",
+    "name_original": "سورة التغابن",
+    "duration": 392,
+    "duration_en": 355
+  },
+  "65": {
+    "name": "Talak",
+    "name_original": "سورة الطلاق",
+    "duration": 406,
+    "duration_en": 371
+  },
+  "66": {
+    "name": "Tahrim",
+    "name_original": "سورة التحريم",
+    "duration": 374,
+    "duration_en": 340
+  },
+  "67": {
+    "name": "Mülk",
+    "name_original": "سورة الملك",
+    "duration": 458,
+    "duration_en": 418
+  },
+  "68": {
+    "name": "Kalem",
+    "name_original": "سورة القلم",
+    "duration": 461,
+    "duration_en": 421
+  },
+  "69": {
+    "name": "Hakka",
+    "name_original": "سورة الحاقة",
+    "duration": 365,
+    "duration_en": 330
+  },
+  "70": {
+    "name": "Mearic",
+    "name_original": "سورة المعارج",
+    "duration": 338,
+    "duration_en": 303
+  },
+  "71": {
+    "name": "Nuh",
+    "name_original": "سورة نوح",
+    "duration": 315,
+    "duration_en": 286
+  },
+  "72": {
+    "name": "Cin",
+    "name_original": "سورة الجن",
+    "duration": 402,
+    "duration_en": 365
+  },
+  "73": {
+    "name": "Müzzemmil",
+    "name_original": "سورة المزمل",
+    "duration": 300,
+    "duration_en": 270
+  },
+  "74": {
+    "name": "Müddessir",
+    "name_original": "سورة المدثر",
+    "duration": 384,
+    "duration_en": 349
+  },
+  "75": {
+    "name": "Kıyame",
+    "name_original": "سورة القيامة",
+    "duration": 256,
+    "duration_en": 231
+  },
+  "76": {
+    "name": "İnsan",
+    "name_original": "سورة الإنسان",
+    "duration": 377,
+    "duration_en": 341
+  },
+  "77": {
+    "name": "Mürselat",
+    "name_original": "سورة المرسلات",
+    "duration": 310,
+    "duration_en": 280
+  },
+  "78": {
+    "name": "Nebe",
+    "name_original": "سورة النبأ",
+    "duration": 258,
+    "duration_en": 233
+  },
+  "79": {
+    "name": "Naziat",
+    "name_original": "سورة النازعات",
+    "duration": 281,
+    "duration_en": 254
+  },
+  "80": {
+    "name": "Abese",
+    "name_original": "سورة عبس",
+    "duration": 211,
+    "duration_en": 191
+  },
+  "81": {
+    "name": "Tekvir",
+    "name_original": "سورة التكوير",
+    "duration": 173,
+    "duration_en": 157
+  },
+  "82": {
+    "name": "İnfitar",
+    "name_original": "سورة الانفطار",
+    "duration": 128,
+    "duration_en": 115
+  },
+  "83": {
+    "name": "Mutaffifin",
+    "name_original": "سورة المطففين",
+    "duration": 286,
+    "duration_en": 260
+  },
+  "84": {
+    "name": "İnşikak",
+    "name_original": "سورة الانشقاق",
+    "duration": 149,
+    "duration_en": 135
+  },
+  "85": {
+    "name": "Buruc",
+    "name_original": "سورة البروج",
+    "duration": 189,
+    "duration_en": 172
+  },
+  "86": {
+    "name": "Tarık",
+    "name_original": "سورة الطارق",
+    "duration": 96,
+    "duration_en": 87
+  },
+  "87": {
+    "name": "Ala",
+    "name_original": "سورة الأعلى",
+    "duration": 117,
+    "duration_en": 105
+  },
+  "88": {
+    "name": "Gaşiye",
+    "name_original": "سورة الغاشية",
+    "duration": 163,
+    "duration_en": 148
+  },
+  "89": {
+    "name": "Fecr",
+    "name_original": "سورة الفجر",
+    "duration": 254,
+    "duration_en": 230
+  },
+  "90": {
+    "name": "Beled",
+    "name_original": "سورة البلد",
+    "duration": 131,
+    "duration_en": 119
+  },
+  "91": {
+    "name": "Şems",
+    "name_original": "سورة الشمس",
+    "duration": 110,
+    "duration_en": 100
+  },
+  "92": {
+    "name": "Leyl",
+    "name_original": "سورة الليل",
+    "duration": 141,
+    "duration_en": 127
+  },
+  "93": {
+    "name": "Duha",
+    "name_original": "سورة الضحى",
+    "duration": 81,
+    "duration_en": 73
+  },
+  "94": {
+    "name": "İnşirah",
+    "name_original": "سورة الشرح",
+    "duration": 51,
+    "duration_en": 46
+  },
+  "95": {
+    "name": "Tin",
+    "name_original": "سورة التين",
+    "duration": 68,
+    "duration_en": 62
+  },
+  "96": {
+    "name": "Alak",
+    "name_original": "سورة العلق",
+    "duration": 144,
+    "duration_en": 131
+  },
+  "97": {
+    "name": "Kadir",
+    "name_original": "سورة القدر",
+    "duration": 55,
+    "duration_en": 50
+  },
+  "98": {
+    "name": "Beyyine",
+    "name_original": "سورة البينة",
+    "duration": 163,
+    "duration_en": 149
+  },
+  "99": {
+    "name": "Zilzal",
+    "name_original": "سورة الزلزلة",
+    "duration": 82,
+    "duration_en": 74
+  },
+  "100": {
+    "name": "Adiyat",
+    "name_original": "سورة العاديات",
+    "duration": 72,
+    "duration_en": 66
+  },
+  "101": {
+    "name": "Karia",
+    "name_original": "سورة القارعة",
+    "duration": 72,
+    "duration_en": 65
+  },
+  "102": {
+    "name": "Tekasür",
+    "name_original": "سورة التكاثر",
+    "duration": 55,
+    "duration_en": 50
+  },
+  "103": {
+    "name": "Asr",
+    "name_original": "سورة العصر",
+    "duration": 35,
+    "duration_en": 31
+  },
+  "104": {
+    "name": "Hümeze",
+    "name_original": "سورة الهمزة",
+    "duration": 60,
+    "duration_en": 54
+  },
+  "105": {
+    "name": "Fil",
+    "name_original": "سورة الفيل",
+    "duration": 36,
+    "duration_en": 32
+  },
+  "106": {
+    "name": "Kureyş",
+    "name_original": "سورة قريش",
+    "duration": 33,
+    "duration_en": 30
+  },
+  "107": {
+    "name": "Maun",
+    "name_original": "سورة الماعون",
+    "duration": 40,
+    "duration_en": 36
+  },
+  "108": {
+    "name": "Kevser",
+    "name_original": "سورة الكوثر",
+    "duration": 21,
+    "duration_en": 19
+  },
+  "109": {
+    "name": "Kafirun",
+    "name_original": "سورة الكافرون",
+    "duration": 32,
+    "duration_en": 29
+  },
+  "110": {
+    "name": "Nasr",
+    "name_original": "سورة النصر",
+    "duration": 27,
+    "duration_en": 25
+  },
+  "111": {
+    "name": "Tebbet",
+    "name_original": "سورة المسد",
+    "duration": 31,
+    "duration_en": 28
+  },
+  "112": {
+    "name": "İhlas",
+    "name_original": "سورة الإخلاص",
+    "duration": 19,
+    "duration_en": 17
+  },
+  "113": {
+    "name": "Felak",
+    "name_original": "سورة الفلق",
+    "duration": 28,
+    "duration_en": 25
+  },
+  "114": {
+    "name": "Nas",
+    "name_original": "سورة الناس",
+    "duration": 35,
+    "duration_en": 32
+  }
+}
